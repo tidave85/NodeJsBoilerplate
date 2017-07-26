@@ -1,0 +1,20 @@
+{
+  "name": "dummy_nodejs_backend",
+  "version": "1.0.0",
+  "description": "Dummy backend API in nodejs when real back-end is not yet available",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "davidgagnedesign",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "ip": "^1.1.5",
+    "path": "^0.12.7"
+  }
+}
